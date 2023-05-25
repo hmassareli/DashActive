@@ -7,10 +7,6 @@ Dashboard desenvolvido em **ReactJs** com **TypeScript** inteiramente componenti
 <div align="center" >
   <img src="./docs/assets/minhacarteirapreview.gif">
 </div>
-
-<div align="center" >
-  <img src="./docs/assets/minhacarteirapreview.gif">
-</div>
 Não há banco de dados. Os dados são carregados de 2 arquivos que contém arrays simulando os repositórios de dados.
 
 ### Layout & Componentes Responsivos
