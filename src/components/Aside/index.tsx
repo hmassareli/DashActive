@@ -1,7 +1,7 @@
 import React from 'react';
+import { MdArrowDownward, MdArrowUpward, MdDashboard, MdExitToApp } from 'react-icons/md';
 import logoImg from '../../assets/logo.svg';
-import { Container, Header, LogImg, Title, MenuContainer, MenuItemLink } from './styles';
-import { MdDashboard, MdArrowDownward, MdArrowUpward, MdExitToApp } from 'react-icons/md';
+import { Container, Header, LogImg, MenuContainer, MenuItemLink, Title } from './styles';
 
 const Aside: React.FC = () => {
   return (
@@ -17,12 +17,12 @@ const Aside: React.FC = () => {
             <MdDashboard />
             Dashboard
           </MenuItemLink>
-          <MenuItemLink href='/dashboard/lists/entradas'>
+          <MenuItemLink href='/lists/entradas'>
             {' '}
             <MdArrowDownward />
             Entradas
           </MenuItemLink>
-          <MenuItemLink href='/dashboard/lists/saidas'>
+          <MenuItemLink href='/lists/saidas'>
             <MdArrowUpward />
             Saídas
           </MenuItemLink>
