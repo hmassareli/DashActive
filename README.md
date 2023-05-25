@@ -1,6 +1,9 @@
 <div align="center" >
   <img src="./docs/assets/logo.png" width="200">
 </div>
+<div align="center" >
+  <img src="./docs/assets/logo.png" width="200">
+</div>
 
 Dashboard desenvolvido em **ReactJs** com **TypeScript** inteiramente componentizado com **componentes puros**.
 
@@ -8,6 +11,9 @@ Dashboard desenvolvido em **ReactJs** com **TypeScript** inteiramente componenti
   <img src="./docs/assets/minhacarteirapreview.gif">
 </div>
 
+<div align="center" >
+  <img src="./docs/assets/minhacarteirapreview.gif">
+</div>
 Não há banco de dados. Os dados são carregados de 2 arquivos que contém arrays simulando os repositórios de dados.
 
 ### Layout & Componentes Responsivos
